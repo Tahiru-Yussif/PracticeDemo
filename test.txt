@@ -1,10 +1,1 @@
- Volume in drive C is Windows 
- Volume Serial Number is C609-7A5B
-
- Directory of C:\Users\TahiruYussif\Desktop\MyProject
-
-16/04/2024  09:37 am    <DIR>          .
-16/04/2024  09:37 am    <DIR>          ..
-16/04/2024  09:37 am                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  193,873,002,496 bytes free
+Never stop learning
